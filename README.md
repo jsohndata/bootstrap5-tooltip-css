@@ -1,5 +1,5 @@
-# bootstrap5-tooltip-css
-Bootstrap 5: Customizing Tooltip
+# bootstrap5-tooltip-custom-css
+Bootstrap 5: Customizing Tooltip with CSS
 
 Want to customize Bootstrap 5 tooltip? Here are the CSS that helped me.
 
