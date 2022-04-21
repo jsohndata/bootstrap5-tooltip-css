@@ -15,3 +15,6 @@ Want to customize Bootstrap 5 tooltip? Here are the CSS that helped me.
 .tooltip.bs-tooltip-start   .tooltip-arrow::before { border-left-color:   #00ff00; }
 .tooltip.bs-tooltip-end     .tooltip-arrow::before { border-right-color:  #00ff00; }
 ```
+
+#Sample
+https://jsohndata.com/bootstrap5-tooltip-custom/
