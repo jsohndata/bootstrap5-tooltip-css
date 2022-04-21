@@ -17,4 +17,4 @@ Want to customize Bootstrap 5 tooltip? Here are the CSS that helped me.
 ```
 
 #Sample
-https://jsohndata.com/bootstrap5-tooltip-custom/
+https://jsohndata.com/bootstrap5-tooltip-custom-css/
